@@ -1,0 +1,78 @@
+.background{
+    background: #445760;
+}
+.span1{
+    font-family: Forte;
+    color:rgb(255, 0, 0);
+    font-size: 50px;
+    text-decoration: underline;
+    text-justify: distribute;
+    margin: 0 auto;
+}
+.navigation{
+    
+    font-size: 25px;
+    float: right;
+    text-justify: distribute;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+.nav1{
+    background-color: #d0ff00; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align:center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+.nav2{
+    background-color: #ffb13b; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align:center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+
+}
+
+.contact{
+    text-align: center;
+    font-size: 28px;
+    font-family: Copperplate Gothic;
+    color: white;
+
+    
+}
+.footer{
+    text-align: center;
+    bottom: 0;
+    position: absolute;
+    font-family: forte;
+    color: white;
+}
+.navigation2{
+    text-align: center;
+}
+
+.navi1{
+    padding: 40px;
+}
+.navi2{
+    padding: 40px;
+}
+.navi3{
+    padding: 40px;
+}
